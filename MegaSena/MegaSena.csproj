@@ -67,6 +67,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="data.tsv" />
+    <Content Include="Calor\data.tsv" />
+    <Content Include="Calor\data2.tsv" />
+    <Content Include="Calor\dataTeste.tsv" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,6 +79,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Calor.html" />
+    <Content Include="Index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
